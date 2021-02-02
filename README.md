@@ -12,3 +12,6 @@
 ## Day-4-loading-animation
 #### a gradient loading page
 ![](Day-4-loading-animation/output.png)
+## day-4-text-animat#ion-1
+#### wait ti see text rolling came new word
+![](day-4-text-animation-1/output.png)
