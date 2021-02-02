@@ -15,3 +15,5 @@
 ## day-4-text-animat#ion-1
 #### wait ti see text rolling came new word
 ![](day-4-text-animation-1/output.png)
+![](day-4-text-animation-1/output1.png)
+
