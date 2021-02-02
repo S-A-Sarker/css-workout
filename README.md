@@ -9,3 +9,6 @@
 ## Day-2-gradient card
 #### hover to translateY with gradient effect
 ![](Day-3-gradient-card/output.png)
+## Day-4-loading-animation
+#### a gradient loading page
+![](Day-4-loading-animation/output.png)
