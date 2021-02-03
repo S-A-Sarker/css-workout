@@ -18,5 +18,5 @@
 ![](day-4-text-animation-1/output1.png)
 ## Day-5-3D-cube-animation
 
-1[](Day-5-3D-cube-animation/output.png)
+![](Day-5-3D-cube-animation/output.png)
 
