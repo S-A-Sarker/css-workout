@@ -19,6 +19,8 @@
 ## Day-5-3D-cube-animation
 #### 3D cube effect 
 ![](Day-5-3D-cube-animation/output.png)
+## Day-6-text-animation-1
 Day-6-text-glitch-1
+## Day-6-text-animation-2
 Day-6-Text-glitch-2
 
