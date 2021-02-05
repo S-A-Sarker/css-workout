@@ -25,7 +25,7 @@
 
 ## Day-6-text-animation-1
 #### infinite time text animation
-Day-6-text-glitch-1
+![](Day-6-text-glitch-1/output.png)
 ## Day-6-text-animation-2
 #### hover the text to see the animation
 Day-6-Text-glitch-2
