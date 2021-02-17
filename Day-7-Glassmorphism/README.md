@@ -1,2 +1,2 @@
 
-![](output-video.mp4)
+![](output.png)
