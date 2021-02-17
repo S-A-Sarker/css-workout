@@ -32,4 +32,4 @@
 
 ## Day-7-Glassmorphism
 #### Glassmorphism and preserved 3D 
-![](Day-7-Glassmorphism/output.png
+![](Day-7-Glassmorphism/output.png)
