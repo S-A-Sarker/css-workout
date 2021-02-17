@@ -30,3 +30,6 @@
 #### hover the text to see the animation
 ![](Day-6-Text-glitch-2/output.png)
 
+## Day-7-Glassmorphism
+#### Glassmorphism and preserved 3D 
+![](Day-7-Glassmorphism/output.png
